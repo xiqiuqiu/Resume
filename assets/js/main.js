@@ -103,7 +103,7 @@
 				});
 
 		// Events.
-
+				
 			// Link clicks.
 				$sidebar.on('click', 'a', function(event) {
 

@@ -155,6 +155,7 @@ input, select, textarea {
 		border-bottom: dotted 1px;
 		color: #fb9807;
 		text-decoration: none;
+		target="_blank" 
 	}
 
 		a:hover {
